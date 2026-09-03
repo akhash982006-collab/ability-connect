@@ -1333,7 +1333,6 @@ export const reviewCases: ReviewCase[] = [
     candidateMethod: "I use a trolley and adaptive grip for loads above 8 kg. At Pandian Exports' packing line I handled 12 kg cartons with a two-step lift using the rack-side platform, at line speed, for 2 years without incident.",
     optionsConsidered: ["Trolley / pallet jack", "Lift-assist arm at rack", "Task rotation with 2nd assistant"],
     employerResponse: "Racking above 1.2 m currently requires manual lift; open to lift-assist if cost is Level B.",
-    expertRecommendation: undefined,
     openedOn: "2026-08-11",
   },
   {
